@@ -18,7 +18,6 @@ const Navbar = () => {
                 <li><a href="#skills">Skills</a></li>
                 <li><a href="#work">Work</a></li>
                 <li><a href="#contact">Contact</a></li>
-
             </ul>
         {/* hamburger */}
         <div onClick={handleClick} className='md:hidden z-10'>
