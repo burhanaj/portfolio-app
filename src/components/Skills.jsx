@@ -4,11 +4,11 @@ import CSS from '../assets/css.png';
 import JavaScript from '../assets/javascript.png';
 import ReactImg from '../assets/react.png';
 import Node from '../assets/node.png';
-import FireBase from '../assets/firebase.png';
+// import FireBase from '../assets/firebase.png';
 import AWS from '../assets/aws.png';
 import GitHub from '../assets/github.png';
 import Tailwind from '../assets/tailwind.png';
-import Mongo from '../assets/mongo.png';
+// import Mongo from '../assets/mongo.png';
 
 const Skills = () => {
     return (
