@@ -22,7 +22,6 @@ const About = () => {
               a software expert available at your fingertips?</p>
             </div>
             </div>
-            
         </div>
     </div>
   )

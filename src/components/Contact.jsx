@@ -8,11 +8,11 @@ const Contact = () => {
                 <p className='text-4xl font-bold inline border-b-4 border-[#1E3F66] text-gray-300'>Contact</p>
                 <p className='text-gray-300 py-4'>// Submit the form below or shoot me an email - <a href="mailto:burhanajmer95@gmail.com" target="_blank"> burhanajmer95@gmail.com</a></p>
             </div>
-            <input className='my-4 bg-[#ccd6f6] p-2' type="text" placeholder='Name' name='name' />
-            <input className='my-4 p-2 bg-[#ccd6f6]' type="email" placeholder='Email' name='email' />
-            <input className='my-3 p-2 bg-[#ccd6f6]' type="tel" placeholder='Phone Number' name='phoneNumber' />
-            <textarea className='my-4 bg-[#ccd6f6] p-2' name="message" rows="8" placeholder='Message'></textarea>
-            <button className='text-white border-2 hover:bg-[#ccd6f6] hover:border-[#ccd6f6] hover:text-[#0c1c35] px-4 py-3 my-8 mx-auto flex items-center'>Let's Collaborate</button>
+            <input className='rounded-md my-4 bg-[#ccd6f6] p-2' type="text" placeholder='Name' name='name' />
+            <input className='rounded-md my-4 p-2 bg-[#ccd6f6]' type="email" placeholder='Email' name='email' />
+            <input className='rounded-md my-3 p-2 bg-[#ccd6f6]' type="tel" placeholder='Phone Number' name='phoneNumber' />
+            <textarea className='rounded-md my-4 bg-[#ccd6f6] p-2' name="message" rows="8" placeholder='Message'></textarea>
+            <button className='rounded-md text-white border-2 hover:bg-[#ccd6f6] hover:border-[#ccd6f6] hover:text-[#0c1c35] px-4 py-3 my-8 mx-auto flex items-center'>Let's Collaborate</button>
         </form>
     </div>
   )
